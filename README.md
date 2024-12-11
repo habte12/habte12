@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Habtamu Arega
-- 🌱 I’m currently learning Computer science
+- 🌱 I’m a recent Computer science graduate 
 - 📫 How to reach me ... Habtamuarega11@gmail.com
 
 <!---
